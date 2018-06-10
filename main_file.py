@@ -245,9 +245,6 @@ def Dijkstra(node_init, node_end, graph):
     
     return cost, shortest_path, no_path
     
-#node_init = 35
-#node_end = 26
-#cost, shortest_path = Dijkstra(node_init, node_end, graph)
 
 def Dijkstra2(node_init, node_end, graph):
     
